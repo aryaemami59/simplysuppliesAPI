@@ -1,1 +1,11 @@
 MCKData.json
+itemNames.json
+MCKItemNames.json
+MCKItemsNumbers.json
+possibleItemNames.json
+possibleItemNumbers.json
+testing.json
+tsconfig.json
+types.js
+types.ts
+vendorItemNames.json
