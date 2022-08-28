@@ -3,10 +3,10 @@
     "McKesson": "McKesson",
     "OrderInsite": "OrderInsite",
     "GNFR": "GNFR",
-    "Sign Order Catalog": "Sign Order Catalog",
-    "VaxServe": "VaxServe",
-    "MCK MedSurge": "MCK MedSurge",
-    "Covap": "Covap",
+    "signOrderCatalog": "Sign Order Catalog",
+    "vaxServe": "VaxServe",
+    "medSurge": "MCK MedSurge",
+    "covap": "Covap",
     "FORS": "FORS"
   }
 ]
