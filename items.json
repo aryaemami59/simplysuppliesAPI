@@ -1181,8 +1181,8 @@
     },
     {
       "id": 92,
-      "name": "ReliOn Insulin Syringes 6mm(15/64\") 1 mL(Green Stripes)",
-      "itemNumber": "81131013834",
+      "name": "ReliOn Insulin Syringes 31 G X 6mm(15/64\") 1 mL(Green Stripes)",
+      "itemNumber": "81131013835",
       "keywords": ["orderinsite", "oi"],
       "MCK": false,
       "OI": true,
@@ -1192,8 +1192,8 @@
     },
     {
       "id": 93,
-      "name": "ReliOn Insulin Syringes 6mm(15/64\") 1/2 mL(Blue strips)",
-      "itemNumber": "81131013836",
+      "name": "ReliOn Insulin Syringes 31 G X 6mm(15/64\") 1/2 mL(Blue strips)",
+      "itemNumber": "81131013837",
       "keywords": ["orderinsite", "oi"],
       "MCK": false,
       "OI": true,
@@ -1203,8 +1203,8 @@
     },
     {
       "id": 94,
-      "name": "ReliOn Insulin Syringes 6mm(15/64\") 3/10 mL(Purple Strips)",
-      "itemNumber": "81131013838",
+      "name": "ReliOn Insulin Syringes 31 G X 6mm(15/64\") 3/10 mL(Purple Strips)",
+      "itemNumber": "81131013839",
       "keywords": ["orderinsite", "oi"],
       "MCK": false,
       "OI": true,
@@ -1214,8 +1214,8 @@
     },
     {
       "id": 95,
-      "name": "ReliOn Insulin Syringes 8mm(5/16\") 1 mL(Green Stripes)",
-      "itemNumber": "81131031174",
+      "name": "ReliOn Insulin Syringes 31 G X 8mm(5/16\") 1 mL(Green Stripes)",
+      "itemNumber": "81131031175",
       "keywords": ["orderinsite", "oi"],
       "MCK": false,
       "OI": true,
@@ -1225,8 +1225,8 @@
     },
     {
       "id": 96,
-      "name": "ReliOn Insulin Syringes 8mm(5/16\") 1/2 mL(Blue Stripes)",
-      "itemNumber": "81131031176",
+      "name": "ReliOn Insulin Syringes 31 G X 8mm(5/16\") 1/2 mL(Blue Stripes)",
+      "itemNumber": "81131031177",
       "keywords": ["orderinsite", "oi"],
       "MCK": false,
       "OI": true,
@@ -1236,8 +1236,8 @@
     },
     {
       "id": 97,
-      "name": "ReliOn Insulin Syringes 8mm(5/16\") 3/10 mL(Purple Stripes)",
-      "itemNumber": "81131031178",
+      "name": "ReliOn Insulin Syringes 31 G X 8mm(5/16\") 3/10 mL(Purple Stripes)",
+      "itemNumber": "81131031179",
       "keywords": ["orderinsite", "oi"],
       "MCK": false,
       "OI": true,
@@ -1580,7 +1580,7 @@
     },
     {
       "id": 126,
-      "name": "Anti Fatgue Mats 4 Pack 24X24",
+      "name": "Anti Fatigue Mats 4 Pack 24X24",
       "itemNumber": "100058638",
       "keywords": ["gnfr"],
       "MCK": false,
@@ -3973,7 +3973,7 @@
     },
     {
       "id": 319,
-      "name": "FY22 Diabetes Reli On Mod Update",
+      "name": "FY22 Diabetes ReliOn Mod Update",
       "itemNumber": "595720418",
       "keywords": ["595720418", "sign", "signing", "catalog", "bunzl"],
       "MCK": false,
