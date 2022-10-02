@@ -1,6 +1,6 @@
 import _items from "./items.json";
 import _vendors from "./vendors.json";
-import _navList from "./navList.json";
+import _navList from "./categories.json";
 import _itemNames from "./itemNames.json";
 import _possibleItemNames from "./possibleItemNames.json";
 import _possibleItemNumbers from "./possibleItemNumbers.json";
