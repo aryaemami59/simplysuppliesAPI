@@ -4551,7 +4551,7 @@
       "abbrName": "MCK",
       "link": "https://connect.mckesson.com/portal/site/smo/menuitem.87a0666be7398a3ece3ee6105740d0a0/?query=",
       "joinChars": " OR ",
-      "items": [
+      "itemIds": [
         0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
         20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
         38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55,
@@ -4565,7 +4565,7 @@
       "abbrName": "OI",
       "link": "https://acloud.orderinsite.com/rs/logon/walmart",
       "joinChars": ", ",
-      "items": [
+      "itemIds": [
         0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
         20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
         38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55,
@@ -4580,7 +4580,7 @@
       "abbrName": "GNFR",
       "link": "https://ppa01.wal-mart.com/irj/portal",
       "joinChars": " ",
-      "items": [
+      "itemIds": [
         101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114,
         115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128,
         129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142,
@@ -4600,7 +4600,7 @@
       "abbrName": "SOC",
       "link": "https://ecom.schwarz.com/Default.aspx?page=ProductCatalog",
       "joinChars": " ",
-      "items": [
+      "itemIds": [
         242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255,
         256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269,
         270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283,
@@ -4615,7 +4615,7 @@
       "abbrName": "VS",
       "link": "https://unify.vaxserve.com/index.cfm?fa=portal.selectStore",
       "joinChars": " ",
-      "items": [21, 22, 322, 323, 324, 325, 326, 327, 328, 329]
+      "itemIds": [21, 22, 322, 323, 324, 325, 326, 327, 328, 329]
     },
     "MS": {
       "id": 5,
@@ -4623,7 +4623,7 @@
       "abbrName": "MS",
       "link": "https://mms.mckesson.com/portal/login",
       "joinChars": " ",
-      "items": [
+      "itemIds": [
         330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343
       ]
     },
@@ -4633,7 +4633,7 @@
       "abbrName": "COV",
       "link": "https://www.covap.com/",
       "joinChars": " ",
-      "items": [
+      "itemIds": [
         344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357,
         358, 359
       ]
@@ -4644,98 +4644,98 @@
       "abbrName": "FORS",
       "link": " https://psz01.wal-mart.com/webdynpro/dispatcher/sap.com/tc~mdm~srmcat~uisearch/ProcurementCatalog7Ehp1#",
       "joinChars": " ",
-      "items": [360, 361, 362]
+      "itemIds": [360, 361, 362]
     }
   },
   "categories": {
     "Vials": {
       "id": 0,
-      "items": [0, 1, 2, 3, 4]
+      "itemIds": [0, 1, 2, 3, 4]
     },
     "Caps": {
       "id": 1,
-      "items": [5, 6]
+      "itemIds": [5, 6]
     },
     "Liquid Bottles": {
       "id": 2,
-      "items": [7, 8, 9, 10, 11, 12]
+      "itemIds": [7, 8, 9, 10, 11, 12]
     },
     "Paper": {
       "id": 3,
-      "items": [13, 106, 201, 231]
+      "itemIds": [13, 106, 201, 231]
     },
     "FLAVORx": {
       "id": 4,
-      "items": [
+      "itemIds": [
         18, 19, 20, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49
       ]
     },
     "Immunization Supplies": {
       "id": 5,
-      "items": [
+      "itemIds": [
         21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 51, 52, 53, 54, 55, 57, 85, 223,
         230, 234, 240, 241, 322, 323, 324, 325, 326, 327, 328, 329
       ]
     },
     "PPE": {
       "id": 6,
-      "items": [56, 209, 210, 211, 212, 232, 233]
+      "itemIds": [56, 209, 210, 211, 212, 232, 233]
     },
     "BD Syringes": {
       "id": 7,
-      "items": [
+      "itemIds": [
         58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75,
         76, 77, 78, 79, 80, 81, 82, 83, 84
       ]
     },
     "ReliOn Novolin Vials": {
       "id": 8,
-      "items": [86, 87, 88]
+      "itemIds": [86, 87, 88]
     },
     "ReliOn Novolin Flexpens": {
       "id": 9,
-      "items": [89, 90, 91]
+      "itemIds": [89, 90, 91]
     },
     "ReliOn Insulin Syringes": {
       "id": 10,
-      "items": [92, 93, 94, 95, 96, 97]
+      "itemIds": [92, 93, 94, 95, 96, 97]
     },
     "ReliOn Pen Needles": {
       "id": 11,
-      "items": [98, 99, 100]
+      "itemIds": [98, 99, 100]
     },
     "RX Bags": {
       "id": 12,
-      "items": [119, 120]
+      "itemIds": [119, 120]
     },
     "Neighborhood Technician Smocks": {
       "id": 13,
-      "items": [
+      "itemIds": [
         144, 146, 148, 150, 152, 154, 156, 158, 160, 162, 164, 166, 168, 170,
         172, 174, 176, 178, 180
       ]
     },
     "Supercenter Technician Smocks": {
       "id": 14,
-      "items": [
+      "itemIds": [
         145, 147, 149, 151, 153, 155, 157, 159, 161, 163, 165, 167, 169, 171,
         173, 175, 177, 179, 181
       ]
     },
     "Pharmacist Coats": {
       "id": 15,
-      "items": [
+      "itemIds": [
         182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195,
         196, 197, 198, 199, 200
       ]
     },
     "Equipment": {
       "id": 16,
-      "items": [208, 227, 228, 237, 239, 360, 361, 362]
+      "itemIds": [208, 227, 228, 237, 239, 360, 361, 362]
     },
     "CardioCheck and A1C": {
       "id": 17,
-      "items": [
+      "itemIds": [
         330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343
       ]
     }
