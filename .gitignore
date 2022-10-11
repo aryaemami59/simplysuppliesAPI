@@ -10,3 +10,9 @@ types.js
 types.ts
 vendorItemNames.json
 node_modules
+categories.json
+vendors.json
+item.d.ts
+items.ts
+vendorNames.json
+officialVendorNames.json
