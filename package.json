@@ -3,8 +3,8 @@
     "deploy": "gh-pages -d ."
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "tsc": "^2.0.4",
-    "typescript": "^4.8.3"
+    "typescript": "^4.9.5"
   }
 }
