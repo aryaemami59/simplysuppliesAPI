@@ -5,7 +5,6 @@ MCKItemsNumbers.json
 possibleItemNames.json
 possibleItemNumbers.json
 testing.json
-tsconfig.json
 types.js
 types.ts
 vendorItemNames.json
@@ -16,3 +15,4 @@ item.d.ts
 items.ts
 vendorNames.json
 officialVendorNames.json
+.vscode

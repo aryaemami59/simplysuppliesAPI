@@ -1,0 +1,86 @@
+{
+  "env": { "node": true, "es2024": true },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "airbnb-base",
+    "airbnb-typescript/base",
+    "plugin:@typescript-eslint/strict-type-checked",
+    "plugin:@typescript-eslint/stylistic-type-checked",
+    "plugin:jsdoc/recommended-typescript",
+    "plugin:prettier/recommended",
+    "plugin:json/recommended"
+  ],
+  "ignorePatterns": [
+    "node_modules",
+    ".vscode",
+    "tsconfig.json",
+    ".eslintrc.json"
+  ],
+  "overrides": [],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "project": true,
+    "sourceType": "module",
+    "extraFileExtensions": [".json"],
+    "tsconfigRootDir": "./"
+  },
+  "plugins": [
+    "@typescript-eslint",
+    "prefer-arrow-functions",
+    "prettier",
+    "simple-import-sort",
+    "json",
+    "jsdoc"
+  ],
+  "root": true,
+  "rules": {
+    "@typescript-eslint/consistent-type-definitions": [2, "type"],
+    "@typescript-eslint/consistent-type-imports": [2],
+    "@typescript-eslint/consistent-type-exports": [2],
+    "@typescript-eslint/explicit-member-accessibility": [2],
+    "@typescript-eslint/naming-convention": [
+      2,
+      {
+        "format": ["PascalCase"],
+        "leadingUnderscore": "allow",
+        "selector": ["typeLike"]
+      },
+      {
+        "format": ["PascalCase", "camelCase"],
+        "selector": ["variable"],
+        "types": ["function"]
+      },
+      {
+        "format": ["camelCase", "UPPER_CASE"],
+        "leadingUnderscore": "allowDouble",
+        "selector": ["variable"],
+        "types": ["array", "boolean", "number", "string"]
+      },
+      {
+        "format": null,
+        "modifiers": ["requiresQuotes"],
+        "selector": ["objectLiteralProperty"]
+      },
+      { "format": ["camelCase", "PascalCase"], "selector": ["parameter"] }
+    ],
+    "no-console": [0],
+    "prefer-arrow-functions/prefer-arrow-functions": [2],
+    "prettier/prettier": [
+      2,
+      {
+        "arrowParens": "avoid",
+        "bracketSameLine": true,
+        "endOfLine": "auto",
+        "parser": "typescript",
+        "singleAttributePerLine": true,
+        "trailingComma": "es5"
+      }
+    ],
+    "simple-import-sort/exports": [2],
+    "simple-import-sort/imports": [2],
+    "@typescript-eslint/promise-function-async": [2],
+    "@typescript-eslint/no-unused-vars": [0]
+  }
+}
