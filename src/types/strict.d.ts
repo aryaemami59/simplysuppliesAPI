@@ -68,14 +68,14 @@ export type Item = {
   readonly name: string;
   readonly itemNumber: string;
   readonly keywords: readonly string[];
-  readonly category: readonly CategoryName[] | readonly [];
+  readonly category: readonly [] | readonly CategoryName[];
   readonly vendors: readonly VendorName[];
   readonly src: string;
 };
 
 export type Items = readonly Item[];
 
-export type Main = {
+export type Supplies = {
   readonly items: Items;
   readonly vendors: Vendors;
   readonly categories: Categories;

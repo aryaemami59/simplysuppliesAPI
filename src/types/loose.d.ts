@@ -29,7 +29,7 @@ export type LooseVendors = Readonly<Record<string, LooseVendor>>;
 
 export type LooseCategories = Readonly<Record<string, LooseCategory>>;
 
-export type LooseMain = {
+export type LooseSupplies = {
   readonly items: LooseItems;
   readonly vendors: LooseVendors;
   readonly categories: LooseCategories;
